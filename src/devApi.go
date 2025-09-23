@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/GustavBW/bsc-multiplayer-backend/src/integrations"
-	"github.com/GustavBW/bsc-multiplayer-backend/src/internal"
+	"github.com/lilybw/bsc-multiplayer-backend/src/integrations"
+	"github.com/lilybw/bsc-multiplayer-backend/src/internal"
 )
 
 func applyDevAPI(mux *http.ServeMux, lobbyManager *internal.LobbyManager) error {

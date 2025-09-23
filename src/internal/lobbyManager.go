@@ -5,10 +5,10 @@ import (
 	"log"
 	"sync/atomic"
 
-	"github.com/GustavBW/bsc-multiplayer-backend/src/integrations"
-	"github.com/GustavBW/bsc-multiplayer-backend/src/meta"
-	"github.com/GustavBW/bsc-multiplayer-backend/src/util"
 	"github.com/gorilla/websocket"
+	"github.com/lilybw/bsc-multiplayer-backend/src/integrations"
+	"github.com/lilybw/bsc-multiplayer-backend/src/meta"
+	"github.com/lilybw/bsc-multiplayer-backend/src/util"
 )
 
 // LobbyManager manages all the lobbies

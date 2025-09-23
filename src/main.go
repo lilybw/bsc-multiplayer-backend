@@ -8,11 +8,11 @@ import (
 	"strconv"
 	"syscall"
 
-	"github.com/GustavBW/bsc-multiplayer-backend/src/config"
-	"github.com/GustavBW/bsc-multiplayer-backend/src/integrations"
-	"github.com/GustavBW/bsc-multiplayer-backend/src/internal"
-	"github.com/GustavBW/bsc-multiplayer-backend/src/meta"
-	"github.com/GustavBW/bsc-multiplayer-backend/src/util"
+	"github.com/lilybw/bsc-multiplayer-backend/src/config"
+	"github.com/lilybw/bsc-multiplayer-backend/src/integrations"
+	"github.com/lilybw/bsc-multiplayer-backend/src/internal"
+	"github.com/lilybw/bsc-multiplayer-backend/src/meta"
+	"github.com/lilybw/bsc-multiplayer-backend/src/util"
 )
 
 const SERVER_ID = 4041587326 // or F0E5BA7E in base16

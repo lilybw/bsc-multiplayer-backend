@@ -8,11 +8,11 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/GustavBW/bsc-multiplayer-backend/src/internal"
-	"github.com/GustavBW/bsc-multiplayer-backend/src/meta"
-	"github.com/GustavBW/bsc-multiplayer-backend/src/middleware"
-	"github.com/GustavBW/bsc-multiplayer-backend/src/util"
 	"github.com/gorilla/websocket"
+	"github.com/lilybw/bsc-multiplayer-backend/src/internal"
+	"github.com/lilybw/bsc-multiplayer-backend/src/meta"
+	"github.com/lilybw/bsc-multiplayer-backend/src/middleware"
+	"github.com/lilybw/bsc-multiplayer-backend/src/util"
 )
 
 func applyPublicApi(mux *http.ServeMux, lobbyManager *internal.LobbyManager) error {

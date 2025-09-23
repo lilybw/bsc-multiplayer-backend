@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/GustavBW/bsc-multiplayer-backend/src/internal"
-	"github.com/GustavBW/bsc-multiplayer-backend/src/meta"
+	"github.com/lilybw/bsc-multiplayer-backend/src/internal"
+	"github.com/lilybw/bsc-multiplayer-backend/src/meta"
 )
 
 type ClientStateResponseDTO struct {
