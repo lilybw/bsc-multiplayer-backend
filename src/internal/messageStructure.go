@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/GustavBW/bsc-multiplayer-backend/src/util"
+	"github.com/lilybw/bsc-multiplayer-backend/src/util"
 )
 
 // For use in statically computing elements at the very start of the application

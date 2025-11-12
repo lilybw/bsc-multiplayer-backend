@@ -9,7 +9,7 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/GustavBW/bsc-multiplayer-backend/src/internal"
+	"github.com/lilybw/bsc-multiplayer-backend/src/internal"
 )
 
 type OutputFormat string

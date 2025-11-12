@@ -6,7 +6,7 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/GustavBW/bsc-multiplayer-backend/src/util"
+	"github.com/lilybw/bsc-multiplayer-backend/src/util"
 )
 
 // Serializes the provided data according to the specification

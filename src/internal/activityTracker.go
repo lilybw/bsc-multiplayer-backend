@@ -4,7 +4,7 @@ import (
 	"log"
 	"sync/atomic"
 
-	"github.com/GustavBW/bsc-multiplayer-backend/src/util"
+	"github.com/lilybw/bsc-multiplayer-backend/src/util"
 )
 
 // uint32 so it can be stored atomically

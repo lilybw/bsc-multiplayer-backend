@@ -6,8 +6,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/GustavBW/bsc-multiplayer-backend/src/meta"
-	"github.com/GustavBW/bsc-multiplayer-backend/src/util"
+	"github.com/lilybw/bsc-multiplayer-backend/src/meta"
+	"github.com/lilybw/bsc-multiplayer-backend/src/util"
 	"github.com/gorilla/websocket"
 )
 

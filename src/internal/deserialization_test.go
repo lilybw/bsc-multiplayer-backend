@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/GustavBW/bsc-multiplayer-backend/src/util"
+	"github.com/lilybw/bsc-multiplayer-backend/src/util"
 )
 
 // Not real data, will cause issues with anything else than deserialize.
